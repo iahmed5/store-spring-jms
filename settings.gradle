@@ -1,2 +1,2 @@
 rootProject.name = 'store-spring-jms'
-include 'jms-spring-default-factory'
+include 'jms-spring-default-factory', 'jms-spring-external-factory'
