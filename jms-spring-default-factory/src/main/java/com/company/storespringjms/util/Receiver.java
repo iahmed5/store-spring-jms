@@ -1,4 +1,4 @@
-package com.company.storespringjms.model;
+package com.company.storespringjms.util;
 
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;

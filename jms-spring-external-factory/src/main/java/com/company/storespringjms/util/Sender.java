@@ -1,4 +1,4 @@
-package com.company.storespringjms.model;
+package com.company.storespringjms.util;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.core.JmsTemplate;
